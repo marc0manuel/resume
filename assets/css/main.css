@@ -2619,6 +2619,44 @@ input, select, textarea {
 	body.index #main {
 		padding-top: 5em;
 	}
+	figcaption{
+		margin-top: 10px;
+		margin-bottom: 20px;
+		font-size: 20px;
+		color: #ffffff;
+		text-align: center;
+	  }
+
+	  #skills{
+		/*background-image: linear-gradient(to bottom right, #1881e0, #89f7fe);*/
+		background: #1881e0;
+	  }
+	  
+	  .skillsHeader{
+		font-weight: 100;
+		color:#ffffff;
+		float: left;
+	  
+	  }
+	  
+	  .skillIcon{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	  }
+	  
+	  .skillIcon:hover{
+		animation: ease;
+		animation-duration: 2s;
+	  }
+	  
+	  
+	  .test{
+		background-image: none;
+		background-color:  #ffffff;
+	  }
+	  
 
 /* CTA */
 
